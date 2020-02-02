@@ -7,7 +7,7 @@ The application can be accessed from the following link:
 https://x0it8vrvwa.execute-api.us-east-1.amazonaws.com/dev
 
 
-## An example of a dashboard:
+## An example of a user dashboard:
 
 
 ![alt text](https://github.com/adeelnasimsyed/Money-Planner/blob/master/img.jpg)
